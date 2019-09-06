@@ -1,4 +1,4 @@
-# Mac_ESP-EFI-_Mounter
+# Mac_ESP-EFI_Mounter
 Automatically find and mount ESP(EFI system partition) on Macbook.
 
 How to run in Terminal:
